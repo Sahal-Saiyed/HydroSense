@@ -1,0 +1,17 @@
+
+streamlit
+pandas
+numpy
+sklearn.model_selection
+train_test_split
+sklearn.ensemble
+RandomForestClassifier
+sklearn.metrics
+accuracy_score
+precision_score
+recall_score
+f1_score
+matplotlib.pyplot
+streamlit_option_menu 
+option_menu
+plotly.express
