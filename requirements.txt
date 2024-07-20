@@ -2,14 +2,4 @@ streamlit
 pandas
 numpy
 sklearn
-train_test_split
-RandomForestClassifier
-sklearn
-accuracy_score
-precision_score
-recall_score
-f1_score
 matplotlib
-streamlit_option_menu 
-option_menu
-plotly
