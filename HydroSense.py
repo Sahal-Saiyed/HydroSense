@@ -36,7 +36,7 @@ with st.sidebar:
 # Home Page: Input water quality parameters and predict potability
 if selected == "Home":
     # st.logo("logo1.png", icon_image="logo1.png")
-    st.image("HydroSense logo-1.png")
+    st.image("logo.jpg")
     st.caption("### Enter water quality values to predict potability:")
 
     # Input fields for water quality parameters
